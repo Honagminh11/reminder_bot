@@ -1,2 +1,5 @@
 python-telegram-bot[job-queue]==22.4
 python-dotenv
+apscheduler
+httpx
+pytz
